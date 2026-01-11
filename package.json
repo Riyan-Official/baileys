@@ -1,7 +1,7 @@
 {
-    "name": "@skyzopedia/baileys-mod",
-    "version": "8.0.2",
-    "description": "WhatsApp API Modification By Skyzopedia",
+    "name": "@riyanoffc/baileys",
+    "version": "3.0.0",
+    "description": "WhatsApp API Modification By Riyan Official",
     "keywords": [
         "whatsapp",
         "laurine-wabot",
@@ -17,7 +17,7 @@
         "url": "https://www.npmjs.com/package/@whiskeysockets/baileys"
     },
     "license": "MIT",
-    "author": "Adhiraj Singh",
+    "author": "Riyan Official",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
